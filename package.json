@@ -92,7 +92,7 @@
     "typedoc-plugin-remark": "^2.0.1",
     "typescript": "^5.8.3",
     "viem": "^2.45.0",
-    "vitest": "^2.1.9",
+    "vitest": "^4.1.11",
     "wagmi": "2.15.5",
     "webauthn-p256": "^0.0.10"
   },
