@@ -147,6 +147,6 @@
     "@turnkey/react-native-passkey-stamper": "^1.1.4",
     "uuid": "^11.1.0",
     "viem": "^2.45.0",
-    "zod": "^3.22.4"
+    "zod": "^4.6.6"
   }
 }
